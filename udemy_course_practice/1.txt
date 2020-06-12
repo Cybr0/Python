@@ -1,0 +1,15 @@
+first str
+second str
+third str
+русс стр
+ну и ?
+ну и ?
+1_str
+2_str
+1_str
+2_str
+1_str
+2_str
+1_str
+2_str
+sss
